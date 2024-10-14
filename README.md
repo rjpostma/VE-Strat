@@ -5,7 +5,7 @@ Training images for the model are included in the TRAINING folder.
 Examples of different stimuli are also included in the Examples folder
 
 The pipeline we created is mostly geared towards the ImageXpress microscope filestructure, but can be adapted to other image sets as well
-
+Packages used by the scripts are listed in the dependencies. 
 
 Examples of how we implement the analysis is found in the "ImageXpress_pipeline.py" and the "liver analysis" files
 Images for these examples are located in the examples folder. Images need to be extracted from the tar archive first.
