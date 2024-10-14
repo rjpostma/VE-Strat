@@ -8,6 +8,8 @@ The pipeline we created is mostly geared towards the ImageXpress microscope file
 
 
 Examples of how we implement the analysis is found in the "ImageXpress_pipeline.py" and the "liver analysis" files
+Images for these examples are located in the examples folder. Images need to be extracted from the tar archive first.
+
 Examples of using it for a single image is found in the "single image analysis" file.
 The functions and classes are found in cell_border_identification_function_classes.py file.
 
